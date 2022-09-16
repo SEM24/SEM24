@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, my name is Samir!</h1>
+<h1 align="center">Hi 👋, My name is Samir!</h1>
 <h3 align="center">An individual with a lifelong interest in computer hardware and backend development, especially in Java 😉</h3>
+
+- 🔭 My main project is [Ecommerce WebSite SENKO](https://github.com/SEM24/Ecommerce-Website-Spring-Boot)
 
 - 🌱 I’m currently learning **Java**
 
