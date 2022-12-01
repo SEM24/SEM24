@@ -3,7 +3,7 @@
 
 - 🔭 My main project is [Ecommerce WebSite SENKO](https://github.com/SEM24/Ecommerce-Website-Spring-Boot)
 
-- 🌱 I’m currently learning **Java**, **Spring Framework**, **Front (HTML/CSS/JS/Bootstrap)**
+- 🌱 I’m currently learning **Java**, **Spring Framework**, **Front (HTML/CSS/JS/Bootstrap)**, **Swing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SEM24](https://github.com/SEM24)
 
