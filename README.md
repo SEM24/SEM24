@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Samer!</h1>
 <h3 align="center">An individual with a lifelong interest in computer hardware and backend development, especially in Java 😉</h3>
 
-- 🔭 My main projects are [Ecommerce WebSite SENKO](https://github.com/SEM24/Ecommerce-Website-Spring-Boot), [Java 2D Medieval RPG](https://github.com/SEM24/Java-2D-Medieval-RPG), [SkillScope Repo](https://github.com/Vladyslav-Team/backend/tree/dev)+[SkillScope Web Demo](http://dev.skillscope.pepega.cloud/talents?page=1)
+- 🔭 My main projects are [Ecommerce WebSite SENKO](https://github.com/SEM24/Ecommerce-Website-Spring-Boot), [Java 2D Medieval RPG](https://github.com/SEM24/Java-2D-Medieval-RPG), [SkillScope Repo](https://github.com/Vladyslav-Team/backend/tree/dev)+[SkillScope Website Demo](http://13.50.101.211/)
 
 - 🌱 I’m currently learning **Java**, **Spring Framework**, **Front (HTML/CSS/JS/Bootstrap)**, **Swing**
 
