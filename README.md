@@ -3,7 +3,7 @@
 
 - 🔭 My main projects are [Ecommerce WebSite SENKO](https://github.com/SEM24/Ecommerce-Website-Spring-Boot), [Java 2D Medieval RPG](https://github.com/SEM24/Java-2D-Medieval-RPG), [SkillScope Repo](https://github.com/Vladyslav-Team/backend/tree/dev)
 
-- 🌱 I’m currently learning **Java**, **Spring Framework**, **Front (HTML/CSS/JS/Bootstrap)**, **Swing**
+- 🌱 I’m currently learning **Java**, **Spring Framework**, **React Js**, **Swing**, **Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SEM24](https://github.com/SEM24)
 
