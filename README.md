@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, my name is Samer!</h1>
 <h3 align="center">An individual with a lifelong interest in computer hardware and backend development, especially in Java 😉</h3>
 
-- 🔭 My main projects are [Ecommerce WebSite SENKO](https://github.com/SEM24/Ecommerce-Website-Spring-Boot), [Java 2D Medieval RPG](https://github.com/SEM24/Java-2D-Medieval-RPG), [SkillScope WebSite](https://github.com/Vladyslav-Team/backend/tree/dev)
+- 🔭 My main projects are [GRID Game Store](https://github.com/GRID-Game-Store/backend/tree/dev), [Ecommerce WebSite SENKO](https://github.com/SEM24/Ecommerce-Website-Spring-Boot), [SkillScope WebSite](https://github.com/Vladyslav-Team/backend/tree/dev)
 
-- 🌱 I’m currently working on: [GRID Game Store](https://github.com/GRID-Game-Store/backend/tree/dev), [Tiny Adventure(Java 2D RPG)](https://github.com/SEM24/Java-2D-Medieval-RPG)
+- 🌱 I’m currently working on: ~~[GRID Game Store](https://github.com/GRID-Game-Store/backend/tree/dev), [Tiny Adventure(Java 2D RPG)](https://github.com/SEM24/Java-2D-Medieval-RPG)~~
 
 - 👨‍💻 All of my projects are available at [https://github.com/SEM24](https://github.com/SEM24)
 
